@@ -71,3 +71,32 @@
     transform: rotate(360deg);
   }
 }
+.headerr {
+  background-color: green;
+  height: 100px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  height: 100px;
+}
+
+
+
+.sidenav {
+  position: absolute;
+  background-color: brown;
+  width: 30%;
+  bottom: 100px;
+  top: 100px;
+}
+.main-content {
+  position: absolute;
+  background-color: yellow;
+  width: 70%;
+  height:360px;
+  left:30%;
+}
